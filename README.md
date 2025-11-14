@@ -1,6 +1,6 @@
 # NetLimiter Patcher
 
-A tool to patch NetLimiter executable files.
+A tool to patch NetLimiter "Licence".
 
 ## Compatibility
 
@@ -73,4 +73,4 @@ Simply replace `"Linkosi"` with your preferred registration name.
 
 ## Usage
 
-After installation, run `NetLimiterPatcher.exe` in the NetLimiter directory. The tool will automatically apply the necessary patches.
+Run `NetLimiterPatcher.exe` in the NetLimiter directory. The tool will automatically apply the necessary patches.
